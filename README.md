@@ -35,13 +35,6 @@ _A TypeScript project showcasing modern frontend practices_
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indi-swap08&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indi-swap08&layout=compact&theme=radical)
-
----
-
 ## 🌱 What I'm Learning
 - 🤖 Embedding **AI in apps** (ML & API integration)
 - 📱 Advanced **Android Jetpack** components
