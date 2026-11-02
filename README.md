@@ -46,7 +46,7 @@ _A TypeScript project showcasing modern frontend practices_
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swapna-sabu-019/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](*(Coming soon…)*)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](Coming soon…)
 
 ---
 ⭐️ _Feel free to check out my repositories and drop a star if you find something useful!_
